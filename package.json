@@ -1,0 +1,33 @@
+
+
+```json
+{
+  "name": "aarp-membership",
+  "version": "1.0.0",
+  "description": "A web application for managing and tracking memberships and related expenses.",
+  "main": "src/index/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": ["membership", "tracking", "expenses", "React", "Aarp"],
+  "author": "Corey Diaz",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-react-app": "^6.0.0",
+    "webpack": "^5.36.2",
+    "babel-core": "^6.26.3"
+  }
+}
