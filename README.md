@@ -31,9 +31,10 @@ Aarp Membership is a web application designed to streamline the management of me
 ## Author
 
 **Corey Diaz**  
-Email: corey215diaz@outlook.com
 
-Website: Aarp Membership
+- Email: corey215diaz@outlook.com
+
+- Website: Aarp Membership
 
 Corey Diaz is a seasoned web developer with a passion for building user-friendly applications. With over 8 years of experience in full-stack development, Corey specializes in creating efficient and scalable web solutions. He is known for his attention to detail, masterful coding skills, and a genuine desire to help others through technology.
 
